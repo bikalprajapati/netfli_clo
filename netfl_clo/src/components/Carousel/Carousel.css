@@ -1,0 +1,10 @@
+.slick-dots li button {
+  color: white; /* Color of the dots */
+  background-color: red; /* Background color of the dots */
+}
+
+/* Active dot style */
+.slick-dots li.slick-active button {
+  color: yellow; /* Color of the active dot */
+  background-color: white; /* Background color of the active dot */
+}
